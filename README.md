@@ -1,7 +1,7 @@
 # Project using Python
 # <a href="https://ambitious-hill-09c518f00.1.azurestaticapps.net">ChatBot using Python</a>
 
-![Python]https://img.shields.io/badge/Python-%23323330.svg?style=for-the-badge&logo=Python&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/Python-%23323330.svg?style=for-the-badge&logo=Python&logoColor=%23F7DF1E)
 
 This is Chatbot made using Python
 
